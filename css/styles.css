@@ -1,0 +1,37 @@
+a {
+    color: #4B88A2;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    background-color: #BB0A21;
+    color: #FFF9FB;
+    font-size: 110%;
+    padding: 5px;
+}
+
+body {
+    background-color: #FFF9FB;
+    color: #252627;
+    font-family: sans-serif;
+}
+
+hr {
+    border-color: #D3D4D9;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+}
+
+h1 {
+    color: #BB0A21;
+}
+
+h3 {
+    color: #4B88A2;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-top: 2px;
+}
